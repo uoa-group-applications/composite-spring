@@ -8,7 +8,7 @@
   </parent>
   <groupId>nz.ac.auckland.composite</groupId>
   <artifactId>composite-spring</artifactId>
-  <version>5.3-SNAPSHOT</version>
+  <version>5.3</version>
   <packaging>jar</packaging>
   <name>composite-spring</name>
   <description>
@@ -18,6 +18,7 @@
     <url>https://github.com/uoa-group-applications/composite-spring</url>
     <connection>scm:git:https://github.com/uoa-group-applications/composite-spring.git</connection>
     <developerConnection>scm:git:git@github.com:uoa-group-applications/composite-spring.git</developerConnection>  
+    <tag>composite-spring-5.3</tag>
   </scm>
   <properties>
     <spring.version>3.2.1.RELEASE</spring.version>
