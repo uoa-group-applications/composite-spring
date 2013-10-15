@@ -29,7 +29,6 @@
 		<spring.version>3.2.4.RELEASE</spring.version>
 	</properties>
 	
-	<!-- Spring versions match Grails versions -->
 	<dependencies>
 	
 		<dependency>
